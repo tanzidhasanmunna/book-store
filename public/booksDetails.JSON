@@ -1,0 +1,87 @@
+[
+    {
+      "bookId": "1",
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "https://i0.wp.com/sellular.com.bd/wp-content/uploads/2021/04/9781409181637-W-e1619726161521.jpg?fit=430%2C491&ssl=1",
+      "review": "A thrilling psychological drama that will keep you on the edge of your seat. The story of Alicia Berenson, a famous painter who is accused of murdering her husband, unfolds with twists and turns that will surprise you.",
+      "totalPages": 336,
+      "rating": 4.2,
+      "category": "Psychological Thriller",
+      "genre": "Thriller",
+      "tags": ["Suspense", "Psychological", "Mystery"],
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": "2",
+      "bookName": "Becoming",
+      "author": "Michelle Obama",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1528206996i/38746485.jpg",
+      "review": "An inspiring memoir by the former First Lady, Michelle Obama. The book gives a powerful account of her life, from her childhood in Chicago to her time in the White House.",
+      "totalPages": 448,
+      "rating": 4.8,
+      "category": "Biography",
+      "genre": "Non-fiction",
+      "tags": ["Memoir", "Inspiration", "Leadership"],
+      "publisher": "Crown Publishing Group",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": "3",
+      "bookName": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387124618i/9361589.jpg",
+      "review": "A beautifully written fantasy novel about a magical competition between two young illusionists. The atmospheric setting and enchanting storytelling make this book a true escape.",
+      "totalPages": 400,
+      "rating": 4.4,
+      "category": "Fantasy",
+      "genre": "Fiction",
+      "tags": ["Magic", "Fantasy", "Romance"],
+      "publisher": "Doubleday",
+      "yearOfPublishing": 2011
+    },
+    {
+      "bookId": "4",
+      "bookName": "Educated",
+      "author": "Tara Westover",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYBik7vwDD38xOPNXRwr5Z920m8gV5rlFuTA&s",
+      "review": "An extraordinary memoir that recounts the author's journey from growing up in a survivalist family to earning a PhD from Cambridge University. It is both heart-wrenching and inspiring.",
+      "totalPages": 352,
+      "rating": 4.7,
+      "category": "Memoir",
+      "genre": "Non-fiction",
+      "tags": ["Education", "Family", "Survival"],
+      "publisher": "Random House",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": "5",
+      "bookName": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "image": "https://m.media-amazon.com/images/I/81e+mSqZvnL._AC_UF1000,1000_QL80_.jpg",
+      "review": "A beautifully evocative novel set in the marshes of North Carolina. It blends mystery, romance, and nature, telling the story of a girl abandoned by her family and growing up in isolation.",
+      "totalPages": 384,
+      "rating": 4.5,
+      "category": "Mystery",
+      "genre": "Fiction",
+      "tags": ["Mystery", "Romance", "Nature"],
+      "publisher": "G.P. Putnam's Sons",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": "6",
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://embed.cdn.pais.scholastic.com/v1/channels/tso/products/identifiers/isbn/9780345534835/primary/renditions/700",
+      "review": "A classic fantasy novel that introduces readers to the world of Middle-earth. Bilbo Baggins’ unexpected journey to help a group of dwarves reclaim their home is filled with adventure and rich world-building.",
+      "totalPages": 310,
+      "rating": 4.7,
+      "category": "Fantasy",
+      "genre": "Fiction",
+      "tags": ["Adventure", "Fantasy", "Classic"],
+      "publisher": "HarperCollins",
+      "yearOfPublishing": 1937
+    }
+  ]
+  
